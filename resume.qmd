@@ -4,42 +4,42 @@ format: html
 ---
 
 
-[Software Engineer]  
+Software Engineer
 
 <div id="webaddress">
-<a href="mailto:[matthewjburrell92@gmail.com]">[matthewjburrell92@gmail.com]</a> |
+<a href="mailto:[matthewjburrell92@gmail.com]">matthewjburrell92@gmail.com</a> |
 <a href="[https://www.linkedin.com/in/matthew-burrell-245735255/]">LinkedIn</a> |
 <a href="[https://github.com/MatthewBurrell-92/MatthewBurrell-92.github.io]">Portfolio</a>
 </div>
 
 ## Profile
 
-[I am an aspring Software Engineer with interests in back-end and database engineering. I also enjoy developing iOS mobile applications. I have a plethora of healthcare experience, with more than ten years of experience as a Paramedic and a few years as a professional Firefighter.]
+I am an aspring Software Engineer with interests in back-end and database engineering. I also enjoy developing iOS mobile applications. I have a plethora of healthcare experience, with more than ten years of experience as a Paramedic and a few years as a professional Firefighter.
 
 ## Education
 
-`[Spring 2026]`  
-__[Computer Science]__, [BYU - Idaho], [Rexburg, Idaho]  
-- Minor/Specialization: [Software Engineering, Software Development]
-- Relevant Courses or Focus Areas: [Object Oriented Programming, Database Engineering, SQL]
+`Spring 2026`  
+__Computer Science__, BYU - Idaho, Rexburg, Idaho
+- Minor/Specialization: Software Engineering, Software Development
+- Relevant Courses or Focus Areas: *Object Oriented Programming, Database Engineering, SQL*
 
 ## Professional Experience
 
-### [Firefighter/Paramedic]
-__[Madison Fire Department], [Rexburg, Idaho]__  
-`[Feb 2023] - [June 2025]`
-- [Firefighter/Paramedic, with certifications including Certified Flight Paramedic and Certified Driver/Operator.]
-- [I am the technology guy for the department, often being called on to create Excel pages and perform other technology related tasks.]
+### Firefighter/Paramedic
+__Madison Fire Department, Rexburg, Idaho__  
+`February 2023 - June 2025`
+- Firefighter/Paramedic, with certifications including Certified Flight Paramedic and Certified Driver/Operator.
+- I am the technology guy for the department, often being called on to create Excel pages and perform other technology related tasks.
 
-### [Paramedic]
-__[St Mark's Hospital], [Salt Lake City, Utah]__  
-`[March 2021] - [December 2022]`
-- [I worked as a Paramedic in the Emergency Room]
+### Paramedic
+__St Mark's Hospital, Salt Lake City, Utah__  
+`March 2021 - December 2022`
+- I worked as a Paramedic in the Emergency Room.
 
-### [Critical Care Paramedic]
-__[Allegiance Mobile Health], [College Station, Texas]__  
-`[October 2014] - [May 2018]`
-- [I was a Critical Care Paramedic/FTO. I left Allegiance to serve a two year mission for my church.]
+### Critical Care Paramedic
+__Allegiance Mobile Health, College Station, Texas__  
+`October 2014 - May 2018`
+- I was a Critical Care Paramedic/FTO. I left Allegiance to serve a two year mission for my church.
 
 <!-- ## Volunteer Experience
 
@@ -55,15 +55,15 @@ __[Organization Name], [Location]__
 
 ## Skills
 
-- Languages: [e.g., Fluent in Spanish, English, and French].
-- Technical Skills: [Python, SQL, PostgreSQL, Oracle, C++, C#, JavaScript, Machine Learning].
-- Key Competencies: [Leadership, Attention to detail, Teamwork].
-- Specializations: [Back end algorithm development, Database Engineering, Data Science].
+- Languages: English and Spanish fluently.
+- Technical Skills: Python, SQL, PostgreSQL, Oracle, C++, C#, JavaScript, Machine Learning
+- Key Competencies: Leadership, Attention to detail, Teamwork
+- Specializations: Back end algorithm development, Database Engineering, Data Science
 
 ## Certifications
 
-- [Paramedic NREMT], Issued [August 2013]
-- [Certified Flight Paramedic], Issued [May 2024]
+- Paramedic NREMT, Issued August 2013
+- Certified Flight Paramedic, Issued May 2024
 - I have many other Paramedic/Firefighting certifications. 
 
 ---
