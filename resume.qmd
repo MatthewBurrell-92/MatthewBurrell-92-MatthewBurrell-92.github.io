@@ -1,89 +1,71 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+title: Matthew Burrell's CV
+format: html
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+
+[Software Engineer]  
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:[matthewjburrell92@gmail.com]">[matthewjburrell92@gmail.com]</a> |
+<a href="[https://www.linkedin.com/in/matthew-burrell-245735255/]">LinkedIn</a> |
+<a href="[https://github.com/MatthewBurrell-92/MatthewBurrell-92.github.io]">Portfolio</a>
 </div>
 
+## Profile
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+[I am an aspring Software Engineer with interests in back-end and database engineering. I also enjoy developing iOS mobile applications. I have a plethora of healthcare experience, with more than ten years of experience as a Paramedic and a few years as a professional Firefighter.]
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`[Spring 2026]`  
+__[Computer Science]__, [BYU - Idaho], [Rexburg, Idaho]  
+- Minor/Specialization: [Software Engineering, Software Development]
+- Relevant Courses or Focus Areas: [Object Oriented Programming, Database Engineering, SQL]
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Professional Experience
 
-- Sizar
+### [Firefighter/Paramedic]
+__[Madison Fire Department], [Rexburg, Idaho]__  
+`[Feb 2023] - [June 2025]`
+- [Firefighter/Paramedic, with certifications including Certified Flight Paramedic and Certified Driver/Operator.]
+- [I am the technology guy for the department, often being called on to create Excel pages and perform other technology related tasks.]
 
-`1667 - death`
-__Trinity College, Cambridge__
+### [Paramedic]
+__[St Mark's Hospital], [Salt Lake City, Utah]__  
+`[March 2021] - [December 2022]`
+- [I worked as a Paramedic in the Emergency Room]
 
-- Fellow
+### [Critical Care Paramedic]
+__[Allegiance Mobile Health], [College Station, Texas]__  
+`[October 2014] - [May 2018]`
+- [I was a Critical Care Paramedic/FTO. I left Allegiance to serve a two year mission for my church.]
 
+<!-- ## Volunteer Experience
 
+### [Role Title]
+__[Organization Name], [Location]__  
+`[Start Date] - [End Date]`
+- [Brief description of your volunteer activities or contributions.]
 
-## Awards
+### [Role Title]
+__[Organization Name], [Location]__  
+`[Start Date] - [End Date]`
+- [Brief description of your volunteer activities or contributions.] -->
 
-`2012`
-President, *Royal Society*, London, UK
+## Skills
 
-Associate, *French Academy of Science*, Paris, France
+- Languages: [e.g., Fluent in Spanish, English, and French].
+- Technical Skills: [Python, SQL, PostgreSQL, Oracle, C++, C#, JavaScript, Machine Learning].
+- Key Competencies: [Leadership, Attention to detail, Teamwork].
+- Specializations: [Back end algorithm development, Database Engineering, Data Science].
 
+## Certifications
 
+- [Paramedic NREMT], Issued [August 2013]
+- [Certified Flight Paramedic], Issued [May 2024]
+- I have many other Paramedic/Firefighting certifications.
 
-## Publications
+---
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+_Last updated: April 2025_
